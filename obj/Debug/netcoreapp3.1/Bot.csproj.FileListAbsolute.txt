@@ -1,0 +1,17 @@
+C:\Users\imank\Desktop\Bot\obj\Debug\netcoreapp3.1\Bot.csproj.AssemblyReference.cache
+C:\Users\imank\Desktop\Bot\obj\Debug\netcoreapp3.1\Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imank\Desktop\Bot\obj\Debug\netcoreapp3.1\Bot.AssemblyInfoInputs.cache
+C:\Users\imank\Desktop\Bot\obj\Debug\netcoreapp3.1\Bot.AssemblyInfo.cs
+C:\Users\imank\Desktop\Bot\obj\Debug\netcoreapp3.1\Bot.csproj.CoreCompileInputs.cache
+C:\Users\imank\Desktop\Bot\bin\Debug\netcoreapp3.1\Bot.exe
+C:\Users\imank\Desktop\Bot\bin\Debug\netcoreapp3.1\Bot.deps.json
+C:\Users\imank\Desktop\Bot\bin\Debug\netcoreapp3.1\Bot.runtimeconfig.json
+C:\Users\imank\Desktop\Bot\bin\Debug\netcoreapp3.1\Bot.runtimeconfig.dev.json
+C:\Users\imank\Desktop\Bot\bin\Debug\netcoreapp3.1\Bot.dll
+C:\Users\imank\Desktop\Bot\bin\Debug\netcoreapp3.1\Bot.pdb
+C:\Users\imank\Desktop\Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\imank\Desktop\Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\imank\Desktop\Bot\obj\Debug\netcoreapp3.1\Bot.csproj.CopyComplete
+C:\Users\imank\Desktop\Bot\obj\Debug\netcoreapp3.1\Bot.dll
+C:\Users\imank\Desktop\Bot\obj\Debug\netcoreapp3.1\Bot.pdb
+C:\Users\imank\Desktop\Bot\obj\Debug\netcoreapp3.1\Bot.genruntimeconfig.cache

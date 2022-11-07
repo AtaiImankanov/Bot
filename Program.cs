@@ -6,7 +6,8 @@ namespace Bot
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            PlayBot bot = new PlayBot();
+            bot.StartBot();
         }
     }
 }
